@@ -79,7 +79,7 @@ img.logo{
 }
 
 /* for skinny viewport*/
-@media only screen and (width <= 400px){
+@media only screen and (width <= 500px){
     .link-container{
         justify-content: center;
     }
